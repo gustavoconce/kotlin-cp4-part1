@@ -1,1 +1,1 @@
-# kotlin-cp4-part1
+Projeto em Kotlin feito para uma atividade da faculdade :)
